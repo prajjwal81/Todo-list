@@ -1,0 +1,9 @@
+.container{
+    border: solid black;
+    height: 50vw;
+    border-radius: 10px;
+   
+}
+.navbar{
+    border-radius: 10px;
+}
